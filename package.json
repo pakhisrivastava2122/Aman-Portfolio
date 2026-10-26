@@ -1,0 +1,20 @@
+{
+  "name": "aman-portfolio",
+  "version": "2.0.0",
+  "description": "Professional freelance graphic designer portfolio for Aman Kumar Srivastava",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "graphic-designer",
+    "portfolio",
+    "brand-identity",
+    "canva",
+    "social-media-design",
+    "vercel"
+  ],
+  "author": "Aman Kumar Srivastava",
+  "license": "MIT"
+}
